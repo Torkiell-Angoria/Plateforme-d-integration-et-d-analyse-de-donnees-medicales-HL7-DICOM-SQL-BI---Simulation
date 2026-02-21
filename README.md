@@ -5,7 +5,7 @@
 
 J'ai créé une vidéo pour présenter le projet , vous pouvez cliquer dessus pour la consulter.
 
-=========>   [Démo du projet Connectivité Hospitalier](https://youtu.be/0jdeQDBnau4)  <=====================
+=========>   [Vidéo du projet - Démonstration](https://youtu.be/0jdeQDBnau4)  <=====================
 
 ## Introduction
 
