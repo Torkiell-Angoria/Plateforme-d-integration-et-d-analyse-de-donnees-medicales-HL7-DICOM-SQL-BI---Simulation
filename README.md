@@ -21,7 +21,7 @@ Ce projet est un **système simulé de réseau hospitalier** intégrant plusieur
 
 ## Structure du projet
 
-##### app
+#### /app
 
 Application avec serveur Node.js, notifie une alerte en cas de test médical dangereux.  
 ⚙️ Pour la lancer en local :  
@@ -32,26 +32,26 @@ Application avec serveur Node.js, notifie une alerte en cas de test médical dan
 npm install
 ```
 
-##### dashboard
+#### /dashboard
 
 Dashboard Power BI qui importe les données du DME (Dossier Médical Électronique) des patients.
 
-##### db
+#### /db
 
 Contient :
 - Le schéma SQL de la base de données
 - Des exemples de données factices pour concevoir et tester la base
 
-##### docs
+#### /docs
 
 Schémas des flux dans le projet et également dans un système hospitalier classique.
 
-##### mirth
+#### /mirth
 
 Channel au format XML traducteur des messages HL7 pour l'application.
 ⚙️ Il convient de l'importer depuis Mirth Connect pour tester le projet en local.
 
-##### serveur_http
+#### /serveur_http
 
 Serveur HTTP Uvicorn avec API FastAPI pour rediriger les flux vers la base SQL.
 ⚙️ Pour le tester en local :
