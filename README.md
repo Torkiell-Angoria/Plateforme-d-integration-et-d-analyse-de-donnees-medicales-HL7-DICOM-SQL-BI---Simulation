@@ -65,6 +65,18 @@ Lancer le serveur :
 uvicorn app.main:app --host 0.0.0.0 --port 3000 --reload
 ```
 
+## Schéma et flux
+Pour mieux comprendre le fonctionnement du projet et les flux de données, voici les schémas :
+
+### Architecture d'un réseau complet hospitalier traditionnel
+
+![Architecture du projet](docs/Schema_flux_complet.JPG)
+
+### Architecture du projet
+
+![Architecture du projet](docs/Schema_flux.jpg)
+
+
 
 
 
